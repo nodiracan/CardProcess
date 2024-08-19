@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  app:
+    image: postgres:15.6
+    container_name: card_process
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://database:5432/postgres
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+    ports:
+      - "9090:8080"
+

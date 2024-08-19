@@ -1,0 +1,11 @@
+
+´
+java:S1192“"qDefine a constant instead of duplicating this literal "Please first Authorize to do action on your Card" 3 times.(š†Ëg8¹ð¢É–2J$92780238-5dbc-4cf7-b84e-77ce72f5822e
+¸
+java:S1192v"uDefine a constant instead of duplicating this literal "Card is not ACTIVE. You can block Only Active cards!" 3 times.(›É‹ƒ8¹ð¢É–2J$9ae0f9e2-7880-4887-987e-9d7f45e362ef
+©
+java:S1488ý"`Immediately return this expression instead of assigning it to the temporary variable "response".(ûÒß¼øÿÿÿÿ8»ð¢É–2J$26249bd5-2dd8-4cf2-97c6-dd78c84e2bfc
+…
+java:S1854ó"<Remove this useless assignment to local variable "pageable".(„”ç²ÿÿÿÿÿ8Üð¢É–2J$2c3c89a9-a957-43bb-b458-2d8c8d347963
+v
+java:S1481ó"-Remove this unused "pageable" local variable.(„”ç²ÿÿÿÿÿ8Üð¢É–2J$6b9f20d4-d642-412b-856f-cec0b9999749
